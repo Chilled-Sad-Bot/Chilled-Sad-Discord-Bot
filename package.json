@@ -65,7 +65,7 @@
         "canvacord": "6.0.2",
         "discord-html-transcripts": "^3.2.0",
         "discord-logs": "^2.2.1",
-        "discord-player": "^6.6.7",
+        "discord-player": "^6.6.8",
         "discord.js": "^14.14.1",
         "dotenv": "^16.4.5",
         "extends-classes": "^1.0.5",
