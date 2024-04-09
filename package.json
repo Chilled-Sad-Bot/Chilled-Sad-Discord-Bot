@@ -84,7 +84,7 @@
         "rss-parser": "^3.13.0",
         "sequelize": "^6.37.2",
         "simple-node-logger": "^21.8.12",
-        "string-mismatch": "^2.1.1",
+        "string-mismatch": "^3.0.1",
         "translatte": "^3.0.1",
         "underscore": "^1.13.6",
         "undici": "^6.11.1",
