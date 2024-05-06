@@ -66,7 +66,7 @@
         "discord-html-transcripts": "^3.2.0",
         "discord-logs": "^2.2.1",
         "discord-player": "^6.6.8",
-        "discord.js": "^14.14.1",
+        "discord.js": "^14.15.2",
         "dotenv": "^16.4.5",
         "extends-classes": "^1.0.5",
         "ffmpeg-static": "^5.2.0",
