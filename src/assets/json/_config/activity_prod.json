@@ -1,13 +1,3 @@
 {
-    "texts": [
-        "/help - Thank you for using me!",
-        "/help - Listen to music with /play",
-        "/help - with new command /tutorial with {memberCount} members",
-        "/help - with new command /autodelete on {guildCount} servers",
-        "/help - with new Ticket System /tickets on {guildCount} servers",
-        "/help - with {memberCount} members on {guildCount} guilds",
-        "/help - try /counter",
-        "/help - Multi language support with /language",
-        "/help - Twitch Notifications 2.0 with /twitch on {guildCount} servers"
-    ]
+    "texts": ["I will shut down my service on 21/12/24. Thanks for using me."]
 }
